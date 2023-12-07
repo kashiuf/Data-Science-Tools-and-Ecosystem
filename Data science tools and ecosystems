@@ -1,1 +1,82 @@
-z
+Add your code below following the instructions given in the course
+2 - Create a markdown cell with the title of the notebook.
+
+Notebook Title
+3 - Create a markdown cell for an introduction.
+
+Introduction: this is a Jyupyter lab for the final project in the Tools for Data Science course
+4. DataScience Languages:
+Python,
+R,
+Anaconda
+5. DataScience Libraries:
+ggplot,
+matPlotLib,
+Sci Kit Learn (SKLearn),
+PyPlot
+6. table of Data Science tools.
+
+
+Languages	IDE's	Libraries
+Python	Jupyter-Notebooks, Jupyterlite, Pycharm VS Code, google-Colab	SKLearn, MatPlotLib, PyPlot
+R	Jupyter-Notebooks, Jupyterlite, R-Studio, VS Code, google-Colab	ggplot
+Anaconda	Same as Python	same as Python
+:---------:	:----------------------------------------:	:---------------------------:
+7. arithmetic expression examples:
+arithmatic operators <br>
+* multiplication 3*4  <br>
+/ division 4/2  <br>
+- subtraction 2-1  <br>
++ addition 1+2  <br>
+% modulus (remainder) 3%4  <be>
+
+
+Create a code cell to multiply and add numbers.
+print("mulltiply numbers 3 & 7")
+print(3*7)
+
+print("add nubmers 3 & 7")
+print(3+7)
+mulltiply numbers 3 & 7
+21
+add nubmers 3 & 7
+10
+9.Create a code cell to convert minutes to hours
+minutes = 125
+print("converting ", minutes, " minutes to hours")
+hours = minutes/60
+print(minutes, " minutes are", hours, " hours")
+converting  125  minutes to hours
+125  minutes are 2.0833333333333335  hours
+
+10. Insert a markdown cell to list Objectives?
+There are a total of 25 points possible for this final project.   
+
+Your grade will be based on the following Exercises:
+
+Exercise 2 - Create a markdown cell with the title of the notebook. (1 pt)
+
+Exercise 3 - Create a markdown cell for an introduction. (1 pt)
+
+Exercise 4 - Create a markdown cell to list data science languages. (3 pts)
+
+Exercise 5 - Create a markdown cell to list data science libraries. (3 pts)
+
+Exercise 6 - Create a markdown cell with a table of Data Science tools. (3 pts)
+
+Exercise 7 - Create a markdown cell introducing arithmetic expression examples. (1 pt)
+
+Exercise 8 - Create a code cell to multiply and add numbers. (2 pts)
+
+Exercise 9 - Create a code cell to convert minutes to hours. (2 pts)
+
+Exercise 10 -Insert a markdown cell to list Objectives. (3 pts)
+
+Exercise 11 - Create a markdown cell to indicate the Author’s name. (2 pts)
+
+Exercise 12 - Share your notebook through GitHub (3 pts)
+
+Exercise 13 - Take a screenshot of the first page of the notebook. (1 pt)
+
+11. Create a markdown cell to indicate the Author’s name
+Name: Kashiuf Asif
